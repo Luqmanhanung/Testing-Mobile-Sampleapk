@@ -24,18 +24,17 @@
 ![Serenity](https://img.shields.io/badge/-serenity-16a67a?style=for-the-badge&logo=serenity&logoColor=black)
 ![Cucumber](https://img.shields.io/badge/-cucumber-4bc47b?style=for-the-badge&logo=cucumber&logoColor=black)
 
-## 🏎️ How to Run all Test Scenarios
+## 🏎️ How to Run The Test Scenarios
 
-1. Clone the repository
+1. Turn on Android Emulator on Android Studio
+
+2. Turn on Appium server on Appium desktop
+
+3. Clone the repository
 ```bash
   $ git clone https://github.com/Luqmanhanung/Testing-Mobile-Sampleapk.git
 ```
-2. Open  this Project Repository on Intellij IDE and Run this on the IDE terminal
-
-```bash
-  $ mvn clean verify
-```
-
+4. Open  this Project Repository on Intellij IDE and Run the test scenario
 
 ## 📱 Project By
 
